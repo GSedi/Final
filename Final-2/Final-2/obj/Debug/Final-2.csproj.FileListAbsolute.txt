@@ -1,0 +1,9 @@
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\bin\Debug\Final-2.exe.config
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\bin\Debug\Final-2.exe
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\bin\Debug\Final-2.pdb
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\obj\Debug\Final-2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\obj\Debug\Final_2.Form1.resources
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\obj\Debug\Final_2.Properties.Resources.resources
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\obj\Debug\Final-2.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\obj\Debug\Final-2.exe
+C:\Users\Администратор\Desktop\fINAL\Final-2\Final-2\obj\Debug\Final-2.pdb

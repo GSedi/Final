@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\fINAL\Final-1\Final-1\bin\Debug\Final-1.exe.config
+C:\Users\Администратор\Desktop\fINAL\Final-1\Final-1\bin\Debug\Final-1.exe
+C:\Users\Администратор\Desktop\fINAL\Final-1\Final-1\bin\Debug\Final-1.pdb
+C:\Users\Администратор\Desktop\fINAL\Final-1\Final-1\obj\Debug\Final-1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\fINAL\Final-1\Final-1\obj\Debug\Final-1.exe
+C:\Users\Администратор\Desktop\fINAL\Final-1\Final-1\obj\Debug\Final-1.pdb

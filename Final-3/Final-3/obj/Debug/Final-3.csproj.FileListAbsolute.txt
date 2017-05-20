@@ -1,0 +1,9 @@
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\bin\Debug\Final-3.exe.config
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\bin\Debug\Final-3.exe
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\bin\Debug\Final-3.pdb
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\obj\Debug\Final-3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\obj\Debug\Final_3.Form1.resources
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\obj\Debug\Final_3.Properties.Resources.resources
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\obj\Debug\Final-3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\obj\Debug\Final-3.exe
+C:\Users\Администратор\Desktop\fINAL\Final-3\Final-3\obj\Debug\Final-3.pdb
